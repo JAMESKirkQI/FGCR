@@ -1,5 +1,5 @@
-# A Study of Self-Supervised Auxiliary Task by Masked Autoencoders on Small Datasets
-This is the official codebase for our paper "A Study of Self-Supervised Auxiliary Task by Masked Autoencoders on Small Datasets" submitted at ICIC 2025.
+# Information Bottleneck Driven Masked Autoencoders for Data-Efficient Auxiliary Learning
+This is the official codebase for our paper "Information Bottleneck Driven Masked Autoencoders for Data-Efficient Auxiliary Learning" submitted at ICIC 2025.
 
 
 ![Overview of self-supervised auxiliary task (SSAT)](archtecture.svg)
